@@ -1,0 +1,660 @@
+!SESSION 2015-03-19 11:12:26.027 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_31
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data E:\Entwicklung\git\eclipse-workspace-test -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2015-03-19 11:12:30.103
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2015-03-19 11:12:30.103
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2015-03-19 11:12:30.103
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-19 11:12:32.847
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-19 11:12:32.849
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\matthias.pfuhl'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:14:55.850
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:14:55.856
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:14:57.004
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:14:57.011
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:15:27.198
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:15:27.200
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:15:27.202
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:15:27.203
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:15:27.204
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:15:27.205
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:15:27.207
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:15:48.910
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:15:48.913
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:03.131
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:03.134
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:03.135
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:03.137
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:03.139
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:03.140
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:03.142
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:16:34.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:16:34.621
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:38.197
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:38.199
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:38.201
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:38.203
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:38.205
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:38.206
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:16:38.208
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:16:50.053
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:16:50.057
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:17:31.826
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:17:31.829
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:35.868
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:35.870
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:37.078
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:37.082
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_RIGHT:
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@762618bb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2433bcd4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.toggle.comment,Toggle Comment,
+		Toggle comment the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37cc352e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.toggle.comment,Toggle Comment,
+		Toggle Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@563bd6a4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_DOWN:
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@30a06273,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4b2af0eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_UP:
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.previous.member,Go to Previous Member,
+		Move the caret to the previous member of the compilation unit,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@51413e47,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.previousSibling,Previous Sibling,
+		Go to Previous Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4b3eaf39,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_UP:
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@17640714,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@144792d5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+O:
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.show.outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@41d72593,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.quick_outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72577420,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+/:
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.add.block.comment,Add Block Comment,
+		Enclose the selection with a block comment,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2a3cdf2b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.add.block.comment,Add Block Comment,
+		Add Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@15a591d9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+P:
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.m2e.core.ui.command.addPlugin,Add Maven Plugin,
+		Add Maven Plugin,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1d5721df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.core.runtime.xml,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.matching.bracket,Go to Matching Bracket,
+		Moves the cursor to the matching bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@65d4645b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.goto.matching.bracket,Matching Character,
+		Go to Matching Character,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b9c05f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+I:
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.indent,Correct Indentation,
+		Corrects the indentation of the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2c6beab5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.active.elements,Format Active Elements,
+		Format active elements,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7621c3f7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+F:
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.format,Format,
+		Format the selected text,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6062ad94,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.document,Format,
+		Format selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2351255a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+\:
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.remove.block.comment,Remove Block Comment,
+		Remove the block comment enclosing the selection,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@449f319e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.remove.block.comment,Remove Block Comment,
+		Remove Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7af7c9aa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_LEFT:
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2af73ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f919230,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-03-19 11:19:38.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_DOWN:
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.next.member,Go to Next Member,
+		Move the caret to the next member of the compilation unit,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@71e21f48,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.nextSibling,Next Sibling,
+		Go to Next Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2bf0bb93,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:38.853
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:38.856
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:19:42.672
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:19:42.674
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:19:42.676
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:19:42.679
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:19:42.680
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:19:42.682
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:19:42.684
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:57.805
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:19:57.809
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:22:29.829
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:22:29.832
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:23.530
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:23.533
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:27.376
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:27.379
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:45.840
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:45.843
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:51.926
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:23:51.929
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:23:58.056
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:23:58.058
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:23:58.059
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:23:58.060
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:23:58.061
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:23:58.062
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:23:58.063
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:16.304
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:16.306
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:16.308
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:16.310
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:16.312
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:16.314
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:16.315
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:35.966
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:35.968
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:35.969
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:35.971
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:35.972
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:35.974
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:35.975
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:24:56.430
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:24:56.434
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:59.429
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:59.431
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:59.433
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:59.434
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:59.435
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:59.437
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:24:59.438
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+!SESSION 2015-03-19 11:26:14.211 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_31
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2015-03-19 11:26:26.472
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2015-03-19 11:26:26.472
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2015-03-19 11:26:26.472
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-19 11:26:30.205
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-19 11:26:30.209
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\matthias.pfuhl'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:31:42.229
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:31:42.237
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:32:06.569
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:32:06.575
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:38:05.338
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:38:05.341
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:38:14.746
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.all
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:38:14.749
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.sourcefolders
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:38:14.750
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.actions.refresh.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:38:14.752
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.DisableGradleNatureAction
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:38:14.753
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.EnableDisableDependencyManagementActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:38:14.755
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.EnableDisableDSLSupportDelegate
+
+!ENTRY org.eclipse.ui 4 4 2015-03-19 11:38:14.756
+!MESSAGE Plug-in 'org.springsource.ide.eclipse.gradle.ui' contributed an invalid Menu Extension (Path: 'org.springsource.ide.eclipse.gradle.menu' is invalid): org.springsource.ide.eclipse.gradle.ui.actions.Console
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:39:24.665
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:39:24.668
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:39:31.704
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:39:31.707
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:40:20.060
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:40:20.063
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:42:32.516
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:42:32.518
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:43:26.340
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:43:26.344
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:44:16.921
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:44:16.923
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:44:31.750
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:44:31.753
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:45:47.506
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:45:47.509
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:46:57.815
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-03-19 11:46:57.818
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

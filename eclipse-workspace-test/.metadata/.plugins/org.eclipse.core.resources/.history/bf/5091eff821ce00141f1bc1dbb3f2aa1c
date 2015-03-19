@@ -1,0 +1,12 @@
+package org.matze.test;
+
+public class PWChecker {
+
+	public boolean check(String password) {
+		// TODO Auto-generated method stub
+		return true;
+	}
+	
+	
+
+}

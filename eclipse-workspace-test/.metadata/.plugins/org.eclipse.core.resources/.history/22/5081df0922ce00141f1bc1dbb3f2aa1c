@@ -1,0 +1,17 @@
+package org.matze.test;
+
+import org.junit.Assert;
+
+public class PWCheckerTest {
+
+	public void checkEmpty() {
+		
+		PWChecker pwc = new PWChecker();
+		
+		Assert.assertFalse(pwc.check(null));
+		Assert.assertFalse(pwc.check(""));
+		Assert.assertTrue(pwc.check("e"));
+		
+	}
+
+}

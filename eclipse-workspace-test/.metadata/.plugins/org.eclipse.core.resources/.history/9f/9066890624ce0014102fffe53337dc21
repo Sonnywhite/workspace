@@ -1,0 +1,13 @@
+package org.matze.test;
+
+public class PWChecker {
+
+	public boolean check(String password) {
+
+		if (password == null || password.isEmpty())
+			return false;
+
+		return true;
+	}
+
+}
