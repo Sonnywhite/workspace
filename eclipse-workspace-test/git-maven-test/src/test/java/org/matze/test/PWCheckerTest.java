@@ -24,6 +24,16 @@ public class PWCheckerTest {
 		Assert.assertTrue(pwc.check("1334"));
 		Assert.assertTrue(pwc.check("1df"));
 		
+	}
+	
+	@Test
+	public void hasAtleastOneUpperCaseLetter() {
+		
+		PWChecker pwc = new PWChecker();
+		
+		Assert.assertFalse(pwc.check("1234"));
+		Assert.assertFalse(pwc.check("abce"));
+		Assert.assertTrue(pwc.check("atgTf"));
 		
 	}
 
